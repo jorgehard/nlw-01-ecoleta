@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src='web/src/assets/rocketseat.png' width="200px"/>
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src='web/src/assets/rocketseat.png' width="150px"/>
 </h1>
 
 <p align="center">
