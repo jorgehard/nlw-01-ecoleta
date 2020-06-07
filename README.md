@@ -21,3 +21,34 @@ O NLW é uma semana prática com muito código, desafios, networking e um ú
 Através do nosso método você vai aprender novas ferramentas, conhecer novas tecnologias e descobrir hacks que vão impulsionar a sua carreira.
 
 Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo na sua evolução como dev.
+
+## 💻 Ecoleta - Entenda o Projeto
+
+Projeto desenvolvido, apelidade de Ecoleta, é um projeto baseado na semana do meio ambiente. O Principal conceito dele é conectar pessoas interessadas em reciclar diversos residuos como baterias, papelão, lampadas, oléo entre outras. 
+
+Utilizando um site web para cadastro dos pontos de coleta, e um aplicativo mobile para consulta destes pontos. 
+
+Projeto simples e feito online guiado pelo Diego Fernandes da rocketseat.
+
+<h1 align="center">
+    <img alt="Example" title="Example" src="./web/src/assets/capa.png" width="70%" />
+</h1>
+
+## :clipboard: Principais conceitos utilizados
+
+Para esse projeto, foi utilizado as principais bibliotecas do javascript, com o principal diferencial, que foi a integração com typescript.
+
+Linguagens utilizadas
+
+- TypeScript
+- NodeJS
+- React
+- React Native
+
+## :label: Envolvidos no desenvolvimento
+
+Jorge Henrique – [@LinkedIn](https://www.linkedin.com/in/jorge-henrique-baptista/) – jorgehenrique@live.com
+
+The MIT License (MIT)
+
+Copyright (c) 2020
