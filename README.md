@@ -1,11 +1,11 @@
 <h1 align="left">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src='web/src/assets/rocketseat.png' />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src='web/src/assets/rocketseat.png' width="200px"/>
 </h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jorgehard/nlw-01-ecoleta?color=green&label=Linguagens&style=for-the-badge">
 
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jorgehard/nlw-01-ecoleta?style=for-the-badge" width="200px">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jorgehard/nlw-01-ecoleta?style=for-the-badge">
 
   <a href="https://www.linkedin.com/in/jorge-henrique-baptista/">
     <img alt="Made by JorgeHenrique" src="https://img.shields.io/badge/Autor-Jorge%20H%20Baptista-green?color=red&label=Autor&style=for-the-badge">
